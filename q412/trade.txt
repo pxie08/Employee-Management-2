@@ -1,0 +1,49 @@
+M Aldwin Laughlin 302.42 Guild
+
+T Theresa Denman 200.3 Jewelcrafting
+
+P Lawrence Schneider 50.20 15
+
+E Duncan Cullen 120.39
+
+M Alexandra Bolero 501.3 Tailoring
+
+T Georgio Bolero 308.32 Tailoring
+
+M Terrance Denman 8903.23 Jewelry
+
+P Isabel Jones 200.0 56
+
+T Catarina Stanford 478.34 Inscription
+
+E Ithurian Whitespire 280.33
+
+M Jessara Cordell 789.33 Magic
+
+T Lucan Cordell 783.22 Enchanting
+
+M Gunther Weller 334.28 Weapons
+
+E Marda Weller 6789.22
+
+E Dawn Radue 32.34
+
+M Edna Mullby 3789.23 General
+
+P Thurman Mullby 238.3 40
+
+T Bario Matali 3789.38 Cooking
+
+M Robby Flay 789.22 Cooking
+
+T Arnold Leland 38.37 Fishing
+
+M Catherine Leland 2345.28 Fishing
+
+T Therum Deepforge 2894.23 Blacksmithing
+
+M Heinrich Stone 34.22 Sword
+M Patrick Xie 302.42 Guild
+M Pat Xie 302.42 Guild
+T Patty Xie 783.22 Cooking
+P Pat Eix 200.0 40
